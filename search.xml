@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>English文章</title>
+      <link href="/2022/12/09/English%E5%AD%A6%E4%B9%A0/"/>
+      <url>/2022/12/09/English%E5%AD%A6%E4%B9%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="English"><a href="#English" class="headerlink" title="English"></a>English</h1><ol><li><h3 id="第一课"><a href="#第一课" class="headerlink" title="第一课"></a>第一课</h3><p>Excuse me!</p><p>Yes?</p><p>Is this your handbag?</p><p>Pardon?</p><p>Is this you handbag?</p><p>Yes,it is.</p><p>Thank you very much.</p></li><li><h3 id="第二课"><a href="#第二课" class="headerlink" title="第二课"></a>第二课</h3><p><strong>Sorry sir.</strong></p><p>My coat and umbrella please.</p><p>Here is my ticket.</p><p>Thank you sir.</p><p>Number five.</p><p>Here is yuor umbrella.</p><p>This is not my umbrella.</p><p>Sorry sir.</p><p>Is this your umbrella?</p><p>No,it isn’t.</p><p>Is this it?</p><p>Yes, it is.</p><p>Thank you very much.</p></li><li><h3 id="第三课"><a href="#第三课" class="headerlink" title="第三课"></a>第三课</h3><p>Good morning.</p><p>Good morning,Mr.Blake.</p><p>This is Miss Sophie Dupont.</p><p>Sophie is a new student.</p><p>She is French.</p><p>Sophie,this is Hans.</p><p>He is German.</p><p>Nice to meet you.</p><p>And this is Naoko.</p><p>She’s Japanses.</p><p>Nice to meet you.</p><p>And this is Chang-woo.</p><p>He’s Korean.</p><p>Nice to meet you.</p><p>And this is Luming.</p><p>He’s Chinese.</p><p>Nice to meet you.</p><p>And tchis is Xiaohui.</p><p>She’s Chinese,too.</p><p>Nice to meet you.</p></li><li><h3 id="第四课"><a href="#第四课" class="headerlink" title="第四课"></a>第四课</h3><p><strong>Are you a teacher?</strong></p><p>I an a new student.</p><p>My name’s Robert.</p><p>Nice to meet you.</p><p>My name’s Sophie.</p><p>Are you French?</p><p>Yes,I am.</p><p>Are you French,too?</p><p>No,I am not.</p><p>What nationality are you?</p><p>I’m Italian.</p><p>Are you a tercher?</p><p>No,I’m not.</p><p>What’s your job?</p><p>I’m a keyboard operator.</p><p>What’s your job?</p><p>I’m an engineer.</p></li><li><h3 id="第五课"><a href="#第五课" class="headerlink" title="第五课"></a>第五课</h3><p><strong>How are you today?</strong></p><p>hello,Helen.</p><p>Hi,Steven.</p><p>How are you today?</p><p>I’m very well,Thank you.</p><p>And you?</p><p>I’m dine,thanks.</p><p>How is Tony?</p><p>He’s fine,Thanks.</p><p>How’s Emma?</p><p>She’s very well,too,Helen.</p><p>Goodbye Helen.</p><p>Nice to see you.</p></li><li><h3 id="第六课"><a href="#第六课" class="headerlink" title="第六课"></a>第六课</h3><p><strong>Is this your shirt?</strong></p><p>Whose shirt is that?</p><p>Is this your shirt,Dave?</p><p>No,Sir.</p><p>It’s not my shirt.</p><p>This ismy shirt.</p><p>My shirt’s blue.</p><p>Is this shir Tim’s.</p><p>Perhaps it is white.</p><p>Tim!</p><p>Yes,sir?</p><p>Is this yuor shrt?</p><p>Yes,sir.</p><p>Here you are.Catch!</p><p>Thank,sir.</p></li><li><h3 id="第七课"><a href="#第七课" class="headerlink" title="第七课"></a>第七课</h3><p><strong>A new dress</strong></p><p>What colour’s yor new dress?</p><p>It’s green.</p><p>Come upstairs and see it.</p><p>Thank you.</p><p>look!</p><p>Here it is!</p><p>That’s a nice dress.</p><p>It’s very smart.</p><p>My hat’s new,too.</p><p>What colour is it?</p><p>It’s the same colour.</p><p>It’s green,too.</p><p>That is a lovely hat!</p></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 笔记 </category>
+          
+          <category> English </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的Python学习笔记</title>
       <link href="/2022/11/17/python/"/>
       <url>/2022/11/17/python/</url>
@@ -49,6 +70,39 @@
     
     
     <entry>
+      <title>照片</title>
+      <link href="/Gallery/index.html"/>
+      <url>/Gallery/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
@@ -71,9 +125,9 @@
     
     
     <entry>
-      <title>照片</title>
-      <link href="/Gallery/index.html"/>
-      <url>/Gallery/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -93,42 +147,9 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
